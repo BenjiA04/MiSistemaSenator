@@ -1,0 +1,28 @@
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\bin\Debug\net9.0\4.ProyectoSenator.exe
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\bin\Debug\net9.0\4.ProyectoSenator.deps.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\bin\Debug\net9.0\4.ProyectoSenator.runtimeconfig.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\bin\Debug\net9.0\4.ProyectoSenator.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\bin\Debug\net9.0\4.ProyectoSenator.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\4.ProyectoSenator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\4.ProyectoSenator.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\4.ProyectoSenator.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\4.ProyectoSenator.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\4.ProyectoSenator.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\refint\4.ProyectoSenator.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\4.ProyectoSenator.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\4.ProyectoSenator.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator\obj\Debug\net9.0\ref\4.ProyectoSenator.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\bin\Debug\net9.0\4.ProyectoSenator.exe
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\bin\Debug\net9.0\4.ProyectoSenator.deps.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\bin\Debug\net9.0\4.ProyectoSenator.runtimeconfig.json
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\bin\Debug\net9.0\4.ProyectoSenator.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\bin\Debug\net9.0\4.ProyectoSenator.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\4.ProyectoSenator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\4.ProyectoSenator.AssemblyInfoInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\4.ProyectoSenator.AssemblyInfo.cs
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\4.ProyectoSenator.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\4.ProyectoSenator.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\refint\4.ProyectoSenator.dll
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\4.ProyectoSenator.pdb
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\4.ProyectoSenator.genruntimeconfig.cache
+C:\Users\Benjamin\Desktop\ITLA Cursos\C# Basico\Proyectos\4.ProyectoSenator - copia\obj\Debug\net9.0\ref\4.ProyectoSenator.dll
